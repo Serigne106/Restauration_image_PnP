@@ -1,0 +1,9 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+torchvision
+deepinv==0.3.7
+streamlit>=1.50
+numpy
+pandas
+pillow
+altair
